@@ -93,7 +93,7 @@ footer {
   background-color: white;
 }
 
-@media (max-width: 1220px) {
+@media (max-width: 1400px) {
   h1 {
     font-size: 3rem;
   }
